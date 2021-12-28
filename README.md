@@ -12,7 +12,7 @@ npm install use-merge-refs
 
 # Demo
 
-Checkout the demo page to see useMergeRefs in action ⛹️
+Checkout the [demo](https://codesandbox.io/s/use-merge-refs-0ng7l?file=/src/App.js) page to see useMergeRefs in action ⛹️
 
 # Usage
 
