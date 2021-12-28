@@ -1,6 +1,8 @@
 # 🖇️ use-merge-refs
 
-[![npm version](https://badge.fury.io/js/use-merge-refs.svg)](https://badge.fury.io/js/use-merge-refs)
+![npm](https://img.shields.io/npm/v/use-merge-refs)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/use-merge-refs)
+![NPM](https://img.shields.io/npm/l/use-merge-refs)
 
 React Hook that merges two or more refs into a single one.
 
@@ -30,4 +32,4 @@ function Example() {
 
 # License
 
-Copyright Wojciech Mietlinski. (MIT License)
+MIT License

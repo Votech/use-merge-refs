@@ -22,7 +22,7 @@
     "use-merge-refs"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Votech/use-merge-refs/issues"
   },
