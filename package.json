@@ -1,6 +1,6 @@
 {
   "name": "use-merge-refs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "React Hook that combines two or more refs",
   "main": "dist/index.js",
   "files": [
