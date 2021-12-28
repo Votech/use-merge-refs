@@ -12,9 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Votech/use-merge-refs.git"
+    "url": "https://github.com/Votech/use-merge-refs.git"
   },
-  "keywords": [],
+  "keywords": [
+    "merge-refs",
+    "reac-merge-refs",
+    "merge-refs-hook",
+    "refs",
+    "use-merge-refs"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
