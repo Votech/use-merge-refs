@@ -16,12 +16,12 @@
   },
   "keywords": [
     "merge-refs",
-    "reac-merge-refs",
+    "react-merge-refs",
     "merge-refs-hook",
     "refs",
     "use-merge-refs"
   ],
-  "author": "",
+  "author": "Wojciech Mietlinski",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Votech/use-merge-refs/issues"
